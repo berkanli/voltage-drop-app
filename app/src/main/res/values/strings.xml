@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VoltageDropApp</string>
+    <string name="main_column_line">Main Column Line</string>
+    <string name="column_line">Column Line</string>
+    <string name="line">Line</string>
+    <string name="amount">Amount</string>
+    <string name="percent">Percent</string>
+    <string name="create">Create</string>
+    <string name="description">Description</string>
+    <string name="single_phase">Single-phase</string>
+    <string name="three_phase">Three-phase</string>
+    <string name="calculate">Calculate</string>
+    <string name="power">Power</string>
+    <string name="phase_balance">Phase Balance</string>
+    <string name="circuit_breaker">Circuit Breaker</string>
+    <string name="outlet">Outlet</string>
+    <string name="total_voltage_drop">Total voltage drop</string>
+</resources>
